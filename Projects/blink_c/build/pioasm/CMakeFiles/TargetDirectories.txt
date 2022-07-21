@@ -1,0 +1,3 @@
+/home/lior/git/lior-sc/Learning_RPI_pico/blink_c/build/pioasm/CMakeFiles/rebuild_cache.dir
+/home/lior/git/lior-sc/Learning_RPI_pico/blink_c/build/pioasm/CMakeFiles/edit_cache.dir
+/home/lior/git/lior-sc/Learning_RPI_pico/blink_c/build/pioasm/CMakeFiles/pioasm.dir

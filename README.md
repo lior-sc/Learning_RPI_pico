@@ -14,9 +14,10 @@ The RPI pico is a microcontroller running the RP2040 processor. it runs a dual c
 
 ---
 
-## Learning materials
+## Resources
 
 - [Raspberry Pi Pico github](https://raspberrypi.github.io/pico-sdk-doxygen/group__hardware.html)  
+- [Getting started with Raspberry pi Pico (C/C++)](https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf)
 - [Raspberry Pi Pico and Pico W Documentation](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
     - [Raspberry Pi Pic C/C++ SDK](https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-c-sdk.pdf)
 - [Getting started with Raspberry Pico and CMake](https://admantium.medium.com/getting-started-with-raspberry-pico-and-cmake-f536e18512e6)
